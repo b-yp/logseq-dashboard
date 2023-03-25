@@ -1,0 +1,17 @@
+.main {
+  width: 100vw;
+  height: 100vh;
+
+  .dashboard {
+    max-width: 30%;
+    min-width: 20%;
+    max-height: 200px;
+    padding: 10px;
+    background-color: rgba(100, 255, 100, 0.9);
+    position: fixed;
+    top: 46px;
+    right: 10px;
+    border-radius: 4px;
+    overflow-y: auto;
+  }
+}
